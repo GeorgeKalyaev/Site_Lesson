@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="93" height="143" viewBox="0 0 93 143">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #3f73a1;
+      }
+
+      .cls-2 {
+        fill: #f1cdb0;
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="21" y="0.031" width="72" height="101.969" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#fbe1cd"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <rect id="Прямоугольник_12" data-name="Прямоугольник 12" class="cls-1" y="48" width="21" height="47"/>
+  <path id="hand" class="cls-2" d="M85.422,54.5s5.683,1.9,5.683,7.6-7.578,9.5-7.578,9.5,3.789,1.524,3.789,7.6-9.472,7.6-9.472,7.6,5.683,1.9,5.684,7.6-9.039,7.6-9.039,7.6H21.01V39.3h9.472c12.341,0,13.261-19,13.261-19V6.991c0-3.8,1.895-9.5,9.473-5.7s7.578,10.9,7.578,19c0,6.077-1.895,19-1.895,19H85.422C89.211,39.3,93,41.2,93,46.9S85.422,54.5,85.422,54.5Z"/>
+</svg>
